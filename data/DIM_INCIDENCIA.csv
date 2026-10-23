@@ -1,0 +1,4 @@
+﻿id_incidencia,tipo_incidencia,descripcion,gravedad
+1,Sin Incidencia,Operación normal,Ninguna
+2,Falla Puertas,Obstrucción mecánica en cierre de puertas,Media
+3,Falla Señalización,Pérdida de código de velocidad,Alta

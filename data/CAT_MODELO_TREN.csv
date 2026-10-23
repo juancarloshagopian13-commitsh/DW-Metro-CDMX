@@ -1,0 +1,4 @@
+﻿id_modelo,modelo_tren,capacidad_pasajeros,num_wagones,velocidad_diseno_kmh
+1,NM-02,1500,9,80.0
+2,NM-16,1500,9,80.0
+3,FE-07,1400,7,75.0
