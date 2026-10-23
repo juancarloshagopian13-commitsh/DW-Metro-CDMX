@@ -1,7 +1,18 @@
 # Sistema Analítico Data Warehouse — Metro CDMX
 
-**Proyecto:** Licenciatura en Ciencias de la Informática / Analítica de Datos  
-**Autor:** Juan Carlos Pérez de León Hagopian  
+**Instituto Politécnico Nacional (IPN)**  
+**Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas (UPIICSA)**  
+
+**Materia:** Analítica de Datos  
+**Secuencia:** 6CM62  
+**Maestro:** Entzana Garduño Yventz  
+
+**Integrantes del Equipo:**
+* Pérez de León Hagopian Juan Carlos
+* Lozada Celis Ernesto
+* Gómez Vega Diego
+* Bustillos Segindo Jazmin
+
 **Repositorio:** `juancarloshagopian13-commitsh/DW-Metro-CDMX`  
 
 ---
