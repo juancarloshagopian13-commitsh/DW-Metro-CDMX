@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2026-11-26T20:42:45.531411+00:00",
+  "proyecto": "DW-Metro-CDMX",
+  "etapa": "dimension_tiempo",
+  "estado": "OK",
+  "detalle": "DIM_AÑO, DIM_MES y DIM_FECHA cargadas",
+  "metricas": {
+    "dias_generados": 90
+  }
+}

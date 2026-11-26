@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2026-11-26T20:42:45.626314+00:00",
+  "proyecto": "DW-Metro-CDMX",
+  "etapa": "fin_etl",
+  "estado": "OK",
+  "detalle": "Proceso ETL finalizado con éxito",
+  "metricas": {
+    "registros_fact": 1000
+  }
+}

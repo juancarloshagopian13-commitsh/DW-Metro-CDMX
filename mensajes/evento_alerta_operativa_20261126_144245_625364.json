@@ -1,0 +1,12 @@
+{
+  "timestamp_utc": "2026-11-26T20:42:45.625356+00:00",
+  "proyecto": "DW-Metro-CDMX",
+  "etapa": "alerta_operativa",
+  "estado": "WARNING",
+  "detalle": "Se detectaron registros con alerta de dosificación o retraso relevante",
+  "metricas": {
+    "registros_cargados": 1000,
+    "alertas_dosificacion": 326,
+    "retraso_promedio_min": 8.57
+  }
+}

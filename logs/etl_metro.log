@@ -4,3 +4,9 @@
 2026-11-23 19:29:50,843 | INFO | etl_metro | FACT_OPERACION poblada con 1000 registros
 2026-11-23 19:29:50,844 | WARNING | etl_metro | Alerta operativa detectada: 326 registros con dosificación activa; retraso promedio de 8.57 min
 2026-11-23 19:29:50,845 | INFO | etl_metro | Proceso ETL finalizado con éxito
+2026-11-26 14:42:45,387 | INFO | etl_metro | Iniciando proceso ETL del Data Warehouse Metro CDMX
+2026-11-26 14:42:45,504 | INFO | etl_metro | Dimensiones base pobladas correctamente
+2026-11-26 14:42:45,530 | INFO | etl_metro | Dimensión tiempo cargada (90 fechas)
+2026-11-26 14:42:45,623 | INFO | etl_metro | FACT_OPERACION poblada con 1000 registros
+2026-11-26 14:42:45,624 | WARNING | etl_metro | Alerta operativa detectada: 326 registros con dosificación activa; retraso promedio de 8.57 min
+2026-11-26 14:42:45,626 | INFO | etl_metro | Proceso ETL finalizado con éxito
