@@ -1,0 +1,9 @@
+parametro,valor_beta,r2_modelo,rmse_min,mae_min
+intercepto_beta_0,8.672679,0.005697,5.1876,4.4928
+afluencia_pasajeros,-1.4e-05,0.005697,5.1876,4.4928
+porcentaje_ocupacion,-0.011538,0.005697,5.1876,4.4928
+velocidad_operativa_real_kmh,-0.005272,0.005697,5.1876,4.4928
+intervalo_headway_seg,0.00134,0.005697,5.1876,4.4928
+distancia_intertren_m,0.000463,0.005697,5.1876,4.4928
+alerta_dosificacion,0.399385,0.005697,5.1876,4.4928
+id_incidencia,0.308515,0.005697,5.1876,4.4928
