@@ -1,0 +1,12 @@
+{
+  "timestamp_utc": "2026-11-26T20:42:45.507172+00:00",
+  "proyecto": "DW-Metro-CDMX",
+  "etapa": "dimensiones_base",
+  "estado": "OK",
+  "detalle": "Dimensiones y catálogos base cargados en MySQL",
+  "metricas": {
+    "estaciones": 5,
+    "trenes": 3,
+    "incidencias": 3
+  }
+}
